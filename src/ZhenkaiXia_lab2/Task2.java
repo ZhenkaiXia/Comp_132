@@ -6,7 +6,7 @@ public class Task2 {
 
     /**
      * Splits a given amount of money into smaller monetary units.
-     * @ authour C0496793
+     * @authour C0496793
      */
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
