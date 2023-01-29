@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class Task2 {
 
     /**
-     *
-     * @param args the command line arguments
+     * Splits a given amount of money into smaller monetary units.
+     * @ authour C0496793
      */
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
