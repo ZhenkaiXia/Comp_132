@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Task1 {
     /**
-     *
-     * @param args the command line arguments
+     * Takes user name, credit hours, and fee rate to calculate total tuition.
+     * @author C0496793
      */
     public static void main (String[] args){
         Scanner sc = new Scanner(System.in);
