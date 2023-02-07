@@ -2,12 +2,17 @@ package ZhenkaiXia_lab3;
 
 import java.util.Scanner;
 
+/**
+ * Determines how many days are in a month using a chosen year and month
+ *
+ * @author C0496793 Zhenkai Xia
+ */
 public class Task1 {
 
     /**
-     * Determines how many days are in a month using a chosen year and month
-     * @authour C0496793
-     * @param args
+     * main
+     *
+     * @param args the command line arguments
      */
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
